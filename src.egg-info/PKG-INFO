@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for Movie Recommender System
+Home-page: https://github.com/v-dev688/Movie-Recommender-System-Using-Machine-Learning
+Author: v-dev688
+Author-email: vdrss3@gmail.com
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# Movie_recommender
+
+
+conda create --prefix ./env python==3.7 -y
+conda activate ./env/
