@@ -1,6 +1,6 @@
 # Project: Movie Suggestion system!
 
-<img src="demo/6.jpeg" alt="workflow" width="70%">
+<img src="Screenshot/1.PNG" alt="workflow" width="50%">
 
 
 ### Content Based :
@@ -11,11 +11,10 @@ A content-based recommendation system is a filtering method used to predict a us
 
 # Demo:
 
-<img src="demo/1.png" alt="workflow" width="70%">
+<img src="Screenshot/scr-1.png" alt="workflow" width="70%">
 
-<img src="demo/2.png" alt="workflow" width="70%">
+<img src="Screenshot/scr-2.png" alt="workflow" width="70%">
 
-<img src="demo/3.png" alt="workflow" width="70%">
 
 
 # Dataset has been used:
